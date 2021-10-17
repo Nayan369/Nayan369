@@ -14,7 +14,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 - ✔️ SASS
 - ✔️ Bootstrap
 - ✔️ PHP
-- <hr>
+ <hr>
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
