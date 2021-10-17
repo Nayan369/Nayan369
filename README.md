@@ -25,6 +25,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan369)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayan369&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayan369&show_icons=true&theme=radical)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nayan369)  
 
