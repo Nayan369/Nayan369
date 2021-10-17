@@ -10,7 +10,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ![Profile views](https://gpvc.arturio.dev/nayan369)
 
-## Skills:
+# 👨‍💻 Skills & Experiance:
 - ✅ Javascript
 - ✅ PHP
 - ✅ HTML/CSS/SASS/Bootstrap
