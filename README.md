@@ -2,7 +2,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQGooo8_Dm-gnQ/profile-displaybackgroundimage-shrink_350_1400/0/1634403607388?e=1640217600&v=beta&t=7qJNPx-FDwSAQnj0s8FhDCaoK3KX6-st_CY0zXJEacY)
 
 ### Hi, I'm Nayan islam
-----
+---
 ## Skills:
 - ✅ Javascript
 - ✅ PHP
