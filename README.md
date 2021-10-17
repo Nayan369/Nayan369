@@ -4,9 +4,9 @@
 # Hi, I'm Nayan islam 👋
 
 ## Skills:
-✅ Javascript
-✅ PHP
-✅ HTML/CSS/SASS/Bootstrap
+- ✅ Javascript
+- ✅ PHP
+- ✅ HTML/CSS/SASS/Bootstrap
 
 ![Profile views](https://gpvc.arturio.dev/nayan369)  
 
