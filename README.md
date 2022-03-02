@@ -2,7 +2,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGfeaD_K3jgzw/profile-displaybackgroundimage-shrink_350_1400/0/1645865006510?e=1651104000&v=beta&t=7k3dODZZw_yr8oK2R9kBSNsW7Wn_l5caLsc80BvL_6w)
 
 # Hi, I'm Nayan islam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
--[<img src="https://c.tenor.com/v7I_1mKJOB4AAAAM/huummm-que-rico.gif" alt="Emoji GIFs | Tenor" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 106px; height: 106px; margin: 0px;">] I am Front-end Developer
+-<img src="https://c.tenor.com/v7I_1mKJOB4AAAAM/huummm-que-rico.gif" style="width: 30px;"> I am Front-end Developer
 - 🖊️ I like write code
 - 🎤 Share my knowledge
 
