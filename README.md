@@ -1,7 +1,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGfeaD_K3jgzw/profile-displaybackgroundimage-shrink_350_1400/0/1645865006510?e=1651104000&v=beta&t=7k3dODZZw_yr8oK2R9kBSNsW7Wn_l5caLsc80BvL_6w)
 
-# Hi, I'm Nayan islam 👋
+# Hi, I'm Nayan islam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👑 I am Web Developer
 - 🖊️ Love to write code
 - 🎤 Like to share my knowledge
