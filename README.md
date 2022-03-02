@@ -2,9 +2,9 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGfeaD_K3jgzw/profile-displaybackgroundimage-shrink_350_1400/0/1645865006510?e=1651104000&v=beta&t=7k3dODZZw_yr8oK2R9kBSNsW7Wn_l5caLsc80BvL_6w)
 
 # Hi, I'm Nayan islam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 👑 I am Web Developer
-- 🖊️ Love to write code
-- 🎤 Like to share my knowledge
+-[<img src="https://c.tenor.com/v7I_1mKJOB4AAAAM/huummm-que-rico.gif" alt="Emoji GIFs | Tenor" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 106px; height: 106px; margin: 0px;">] I am Front-end Developer
+- 🖊️ I like write code
+- 🎤 Share my knowledge
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include JavaScript as well as PHP.
 
