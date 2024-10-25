@@ -13,11 +13,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 # 👨‍💻 Skills & Experiance:
 - ✅ HTML5
 - ✅ CSS3
-- ✅ SASS
 - ✅ Bootstrap-5
 - ✅ Javascript
-- ✅ Wordprass
-- ✅ PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan369)](https://github.com/anuraghazra/github-readme-stats)
 
